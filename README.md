@@ -36,28 +36,28 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="horizontal line" width="100%"/>
 
-## Learning path
 <details>
   <summary>
-    <h3>Current courses</h3>
+    <h2>Learning path</h2>
   </summary>
   
+  ### Current courses
   - [Codecademy | Front-End Engineer Career Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
   - [Scrimba | Frontend Developer Career Path](https://scrimba.com/learn/frontend)
   - [Udemy | React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
-</details>
-<details>
-  <summary>
-    <h3>Future courses</h3>
-   </summary>
   
+  ### Future courses
   - [Udemy | Node with React](https://www.udemy.com/course/node-with-react-fullstack-web-development/)
   - [CS50's Intro to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 </details>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="horizontal line" width="100%"/>
 
-## GitHub Stats
-<p align="center">
+<details>
+  <summary>
+    <h2>GitHub Stats</h2>
+  </summary>
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vivian-mca&theme=rose_pine&show_icons=true" alt="Vivian A's GitHub Stats" />
-<p>
+  <p>
+</details>

@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I’m Vivian (@vivian-mca) 👋 </h1> 
-<h2 align="center"><em>Self-taught frontend developer</em></h2> 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="horizontal line" width="100%"/>
 

@@ -16,7 +16,7 @@
 ## Top projects so far
 - Password Generator - [Repo](https://github.com/vivian-mca/scrimba-projects/tree/gh-pages/Password%20generator) | [Live](https://vivian-mca.github.io/scrimba-projects/Password%20generator/)
 - Number Guesser - [Repo](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Number%20Guesser) | [Live](https://vivian-mca.github.io/javascript-codecademy-projects/Number%20Guesser/)
-- Credit Card Checker - [Repo](https://github.com/vivian-mca/javascript-codecademy-projects/tree/gh-pages/Credit%20Card%20Checker)
+- Credit Card Checker - [Repo](https://github.com/vivian-mca/javascript-codecademy-projects/tree/gh-pages/Credit%20Card%20Checker) | [Live](https://replit.com/@vivianmca/Credit-Card-Checker?v=1#index.js)
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="horizontal line" width="100%"/>

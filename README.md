@@ -3,8 +3,8 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="horizontal line" width="100%"/>
 
 ## About me
-- 📖 I’m currently learning Async JS and React
-- 🍎 Formerly a teacher, I'm looking to transition to tech
+- 📖 I’m currently learning Async JS and React.
+- 🍎 Formerly a teacher, I'm looking to transition to tech.
 - 🌸 Interests:
   - 🎮 I like playing farming simulator games & MMORPG
   - 🧙‍♂️ I like binge-watching LOTR & anime

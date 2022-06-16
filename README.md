@@ -44,6 +44,7 @@
   - [Codecademy | Front-End Engineer Career Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
   - [Scrimba | Frontend Developer Career Path](https://scrimba.com/learn/frontend)
   - [Udemy | React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+  - [Zero to Mastery | Advanced JavaScript Concepts](https://zerotomastery.io/courses/advanced-javascript-concepts/)
   
   ### Future courses
   - [Udemy | Node with React](https://www.udemy.com/course/node-with-react-fullstack-web-development/)

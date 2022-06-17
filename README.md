@@ -4,7 +4,7 @@
 
 ## About me
 - 📖 I’m currently learning React and JavaScript concepts.
-- 🍎 Formerly a teacher, I'm looking to transition to tech.
+- 🍎 I'm a former teacher looking to transition to tech.
 - 🌸 Interests:
   - 🎮 I like playing farming simulator games & MMORPG
   - 🧙‍♂️ I like binge-watching LOTR & anime

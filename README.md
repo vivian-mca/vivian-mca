@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="horizontal line" width="100%"/>
 
 ## About me
-- I’m currently learning React and JavaScript concepts.
+- I’m currently learning Advanced React and JavaScript concepts.
 - I'm a former teacher looking to transition to tech.
 - Interests:
   - I like playing farming simulator games & MMORPG

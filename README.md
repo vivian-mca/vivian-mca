@@ -7,16 +7,16 @@
 - I'm a former teacher looking to transition to tech.
 - Interests:
   - I like playing farming simulator games & MMORPG
-  - I like binge-watching LOTR & anime
   - I like making punny jokes 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="horizontal line" width="100%"/>
 
 ## Top projects so far
+- Spotify Clone - [Repo](https://github.com/vivian-mca/react-spotify-clone) | [Live](https://vivianmca-react-spotify-clone.netlify.app)
+- Fitness App - [Repo](https://github.com/vivian-mca/react-fitness-app) | [Live](https://vivianmca-react-fitness-app.netlify.app)
+- Modern UI/UX React Website - [Repo](https://github.com/vivian-mca/react-gpt3-site) | [Live](https://vivianmca-react-gpt3.netlify.app)
 - Password Generator - [Repo](https://github.com/vivian-mca/scrimba-projects/tree/gh-pages/Password%20generator) | [Live](https://vivian-mca.github.io/scrimba-projects/Password%20generator/)
 - Quotes Generator - [Repo](https://github.com/vivian-mca/quote-generator) | [Live](https://vivian-mca.github.io/quote-generator/)
-- Number Guesser - [Repo](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Number%20Guesser) | [Live](https://vivian-mca.github.io/javascript-codecademy-projects/Number%20Guesser/)
-- Credit Card Checker - [Repo](https://github.com/vivian-mca/javascript-codecademy-projects/tree/gh-pages/Credit%20Card%20Checker) | [Live](https://replit.com/@vivianmca/Credit-Card-Checker?v=1#index.js)
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="horizontal line" width="100%"/>
@@ -29,11 +29,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript icon" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react icon" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git icon" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha icon" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode icon" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma icon" width="35" />
 </p>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="horizontal line" width="100%"/>
+
+## GitHub stats
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vivian-mca&show_icons=true&theme=rose_pine" alt="Vivian A's GitHub Stats" />
+  <p>
+    
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="horizontal line" width="100%"/>
 
 <details>
@@ -52,13 +58,3 @@
   - [CS50's Intro to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 </details>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="horizontal line" width="100%"/>
-
-<details>
-  <summary>
-    <h2>GitHub stats</h2>
-  </summary>
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivian-mca&show_icons=true&theme=rose_pine" alt="Vivian A's GitHub Stats" />
-  <p>
-</details>

@@ -6,8 +6,7 @@
 - I’m currently learning Advanced React and JavaScript concepts.
 - I'm a former teacher looking to transition to tech.
 - Interests:
-  - I like playing farming simulator games & MMORPG
-  - I like making punny jokes 
+  - I like playing farming simulator games & MMORPG 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="horizontal line" width="100%"/>
 
